@@ -28,3 +28,4 @@ Visualization: Developed Heatmaps and trend lines in Tableau/Power BI to communi
 Key Insights & Impact:-
 
 The analysis revealed that implementing a "Dynamic Incentive" model in top-3 high-churn areas could potentially reduce cancellations by 15%. Furthermore, shifting Captain distributions toward "Source" areas during "Golden Hours" (High Completion + High Fare) showed a projected revenue increase of 12% per fleet unit.
+
